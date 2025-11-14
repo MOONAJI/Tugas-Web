@@ -1,2 +1,1 @@
-# Persephone Florist
-Kelompok 1 12 MIPA 4 
+# Persephone Florist 
